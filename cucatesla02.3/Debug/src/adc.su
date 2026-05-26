@@ -1,0 +1,5 @@
+../src/adc.c:20:6:calibraADC	24	static
+../src/adc.c:73:6:ADC_Init	8	static
+../src/adc.c:130:6:ADC_SEQA_IRQHandler	8	static
+../src/adc.c:145:5:NivelLuz	24	static
+../src/adc.c:154:6:Chequeo_Luz	8	static

@@ -1,0 +1,8 @@
+../src/uart0.c:32:6:UART0_pushTx	16	static
+../src/uart0.c:54:9:UART0_popTx	16	static
+../src/uart0.c:74:6:UART0_pushRx	16	static
+../src/uart0.c:90:9:UART0_popRx	16	static
+../src/uart0.c:109:6:EnviarString	32	static
+../src/uart0.c:128:9:Transmitir	32	static
+../src/uart0.c:150:6:UART0_IRQHandler	24	static
+../src/uart0.c:186:6:inic_uart0	8	static

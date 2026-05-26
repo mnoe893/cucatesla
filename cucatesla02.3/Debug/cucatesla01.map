@@ -1,0 +1,1498 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc84x.o (__main)
+c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                              ./src/cucatesla01.o (__aeabi_fmul)
+c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+                              c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o) (__aeabi_lmul)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .text          0x00000000        0x0 ./src/LPC845_GPIO_Dr.o
+ .data          0x00000000        0x0 ./src/LPC845_GPIO_Dr.o
+ .bss           0x00000000        0x0 ./src/LPC845_GPIO_Dr.o
+ .text.TogglePIN
+                0x00000000       0x2c ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .text          0x00000000        0x0 ./src/SysTick.o
+ .data          0x00000000        0x0 ./src/SysTick.o
+ .bss           0x00000000        0x0 ./src/SysTick.o
+ .debug_macro   0x00000000      0xa66 ./src/SysTick.o
+ .debug_macro   0x00000000     0x1fb5 ./src/SysTick.o
+ .debug_macro   0x00000000      0x12a ./src/SysTick.o
+ .debug_macro   0x00000000      0x13f ./src/SysTick.o
+ .debug_macro   0x00000000       0x2e ./src/SysTick.o
+ .debug_macro   0x00000000       0x10 ./src/SysTick.o
+ .debug_macro   0x00000000       0xc4 ./src/SysTick.o
+ .debug_macro   0x00000000       0x1c ./src/SysTick.o
+ .debug_macro   0x00000000       0x7c ./src/SysTick.o
+ .debug_macro   0x00000000       0x3a ./src/SysTick.o
+ .debug_macro   0x00000000       0x34 ./src/SysTick.o
+ .debug_macro   0x00000000       0x1c ./src/SysTick.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .text          0x00000000        0x0 ./src/adc.o
+ .data          0x00000000        0x0 ./src/adc.o
+ .bss           0x00000000        0x0 ./src/adc.o
+ .data.max_luz  0x00000000        0x4 ./src/adc.o
+ .data.min_luz  0x00000000        0x4 ./src/adc.o
+ .bss.nivel_luz
+                0x00000000        0x4 ./src/adc.o
+ .text.calibraADC
+                0x00000000       0xa8 ./src/adc.o
+ .text.ADC_Init
+                0x00000000      0x150 ./src/adc.o
+ .text.NivelLuz
+                0x00000000       0x48 ./src/adc.o
+ .rodata.Chequeo_Luz.str1.4
+                0x00000000        0xd ./src/adc.o
+ .text.Chequeo_Luz
+                0x00000000       0x84 ./src/adc.o
+ .debug_macro   0x00000000      0xa66 ./src/adc.o
+ .debug_macro   0x00000000     0x1fb5 ./src/adc.o
+ .debug_macro   0x00000000      0x12a ./src/adc.o
+ .debug_macro   0x00000000      0x13f ./src/adc.o
+ .debug_macro   0x00000000       0x2e ./src/adc.o
+ .debug_macro   0x00000000       0x10 ./src/adc.o
+ .debug_macro   0x00000000       0xc4 ./src/adc.o
+ .debug_macro   0x00000000       0x1c ./src/adc.o
+ .debug_macro   0x00000000       0x7c ./src/adc.o
+ .debug_macro   0x00000000       0x3a ./src/adc.o
+ .debug_macro   0x00000000       0x34 ./src/adc.o
+ .debug_macro   0x00000000       0x1c ./src/adc.o
+ .text          0x00000000        0x0 ./src/aeabi_romdiv_patch.o
+ .data          0x00000000        0x0 ./src/aeabi_romdiv_patch.o
+ .bss           0x00000000        0x0 ./src/aeabi_romdiv_patch.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc84x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc84x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc84x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc84x.o
+ .debug_macro   0x00000000      0xa66 ./src/cr_startup_lpc84x.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0xa66 ./src/crp.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .group         0x00000000        0xc ./src/ctimer.o
+ .text          0x00000000        0x0 ./src/ctimer.o
+ .data          0x00000000        0x0 ./src/ctimer.o
+ .bss           0x00000000        0x0 ./src/ctimer.o
+ .debug_macro   0x00000000      0xa66 ./src/ctimer.o
+ .debug_macro   0x00000000     0x1fb5 ./src/ctimer.o
+ .debug_macro   0x00000000      0x12a ./src/ctimer.o
+ .debug_macro   0x00000000      0x13f ./src/ctimer.o
+ .debug_macro   0x00000000       0x2e ./src/ctimer.o
+ .debug_macro   0x00000000       0x10 ./src/ctimer.o
+ .debug_macro   0x00000000       0xc4 ./src/ctimer.o
+ .debug_macro   0x00000000       0x1c ./src/ctimer.o
+ .debug_macro   0x00000000       0x7c ./src/ctimer.o
+ .debug_macro   0x00000000       0x3a ./src/ctimer.o
+ .debug_macro   0x00000000       0x34 ./src/ctimer.o
+ .debug_macro   0x00000000       0x1c ./src/ctimer.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/cucatesla01.o
+ .text          0x00000000        0x0 ./src/cucatesla01.o
+ .data          0x00000000        0x0 ./src/cucatesla01.o
+ .bss           0x00000000        0x0 ./src/cucatesla01.o
+ .bss.DelayADC  0x00000000        0x1 ./src/cucatesla01.o
+ .bss.a         0x00000000        0x4 ./src/cucatesla01.o
+ .debug_macro   0x00000000      0xa66 ./src/cucatesla01.o
+ .debug_macro   0x00000000     0x1fb5 ./src/cucatesla01.o
+ .debug_macro   0x00000000      0x12a ./src/cucatesla01.o
+ .debug_macro   0x00000000      0x13f ./src/cucatesla01.o
+ .debug_macro   0x00000000       0x2e ./src/cucatesla01.o
+ .debug_macro   0x00000000       0x10 ./src/cucatesla01.o
+ .debug_macro   0x00000000       0xc4 ./src/cucatesla01.o
+ .debug_macro   0x00000000       0x1c ./src/cucatesla01.o
+ .debug_macro   0x00000000       0x7c ./src/cucatesla01.o
+ .debug_macro   0x00000000       0x3a ./src/cucatesla01.o
+ .debug_macro   0x00000000       0x34 ./src/cucatesla01.o
+ .debug_macro   0x00000000       0x1c ./src/cucatesla01.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/hc__sr04.o
+ .text          0x00000000        0x0 ./src/hc__sr04.o
+ .data          0x00000000        0x0 ./src/hc__sr04.o
+ .bss           0x00000000        0x0 ./src/hc__sr04.o
+ .debug_macro   0x00000000      0xa66 ./src/hc__sr04.o
+ .debug_macro   0x00000000     0x1fb5 ./src/hc__sr04.o
+ .debug_macro   0x00000000      0x12a ./src/hc__sr04.o
+ .debug_macro   0x00000000      0x13f ./src/hc__sr04.o
+ .debug_macro   0x00000000       0x2e ./src/hc__sr04.o
+ .debug_macro   0x00000000       0x10 ./src/hc__sr04.o
+ .debug_macro   0x00000000       0xc4 ./src/hc__sr04.o
+ .debug_macro   0x00000000       0x1c ./src/hc__sr04.o
+ .debug_macro   0x00000000       0x7c ./src/hc__sr04.o
+ .debug_macro   0x00000000       0x3a ./src/hc__sr04.o
+ .debug_macro   0x00000000       0x34 ./src/hc__sr04.o
+ .debug_macro   0x00000000       0x1c ./src/hc__sr04.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/inicializacion.o
+ .text          0x00000000        0x0 ./src/inicializacion.o
+ .data          0x00000000        0x0 ./src/inicializacion.o
+ .bss           0x00000000        0x0 ./src/inicializacion.o
+ .debug_macro   0x00000000      0xa66 ./src/inicializacion.o
+ .debug_macro   0x00000000     0x1fb5 ./src/inicializacion.o
+ .debug_macro   0x00000000      0x12a ./src/inicializacion.o
+ .debug_macro   0x00000000      0x13f ./src/inicializacion.o
+ .debug_macro   0x00000000       0x2e ./src/inicializacion.o
+ .debug_macro   0x00000000       0x10 ./src/inicializacion.o
+ .debug_macro   0x00000000       0xc4 ./src/inicializacion.o
+ .debug_macro   0x00000000       0x1c ./src/inicializacion.o
+ .debug_macro   0x00000000       0x7c ./src/inicializacion.o
+ .debug_macro   0x00000000       0x3a ./src/inicializacion.o
+ .debug_macro   0x00000000       0x34 ./src/inicializacion.o
+ .debug_macro   0x00000000       0x1c ./src/inicializacion.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_com.o
+ .text          0x00000000        0x0 ./src/mde_com.o
+ .data          0x00000000        0x0 ./src/mde_com.o
+ .bss           0x00000000        0x0 ./src/mde_com.o
+ .bss.flag_oscu
+                0x00000000        0x1 ./src/mde_com.o
+ .debug_macro   0x00000000      0xa66 ./src/mde_com.o
+ .debug_macro   0x00000000     0x1fb5 ./src/mde_com.o
+ .debug_macro   0x00000000      0x12a ./src/mde_com.o
+ .debug_macro   0x00000000      0x13f ./src/mde_com.o
+ .debug_macro   0x00000000       0x2e ./src/mde_com.o
+ .debug_macro   0x00000000       0x10 ./src/mde_com.o
+ .debug_macro   0x00000000       0xc4 ./src/mde_com.o
+ .debug_macro   0x00000000       0x1c ./src/mde_com.o
+ .debug_macro   0x00000000       0x7c ./src/mde_com.o
+ .debug_macro   0x00000000       0x3a ./src/mde_com.o
+ .debug_macro   0x00000000       0x34 ./src/mde_com.o
+ .debug_macro   0x00000000       0x1c ./src/mde_com.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mde_mov.o
+ .text          0x00000000        0x0 ./src/mde_mov.o
+ .data          0x00000000        0x0 ./src/mde_mov.o
+ .bss           0x00000000        0x0 ./src/mde_mov.o
+ .rodata        0x00000000        0xc ./src/mde_mov.o
+ .text.doblar   0x00000000       0x38 ./src/mde_mov.o
+ .text.cambiar_velocidad
+                0x00000000       0x58 ./src/mde_mov.o
+ .text.mde_mov  0x00000000       0x38 ./src/mde_mov.o
+ .debug_macro   0x00000000      0xa66 ./src/mde_mov.o
+ .debug_macro   0x00000000     0x1fb5 ./src/mde_mov.o
+ .debug_macro   0x00000000      0x12a ./src/mde_mov.o
+ .debug_macro   0x00000000      0x13f ./src/mde_mov.o
+ .debug_macro   0x00000000       0x2e ./src/mde_mov.o
+ .debug_macro   0x00000000       0x10 ./src/mde_mov.o
+ .debug_macro   0x00000000       0xc4 ./src/mde_mov.o
+ .debug_macro   0x00000000       0x1c ./src/mde_mov.o
+ .debug_macro   0x00000000       0x7c ./src/mde_mov.o
+ .debug_macro   0x00000000       0x3a ./src/mde_mov.o
+ .debug_macro   0x00000000       0x34 ./src/mde_mov.o
+ .debug_macro   0x00000000       0x1c ./src/mde_mov.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .group         0x00000000        0xc ./src/mrt.o
+ .text          0x00000000        0x0 ./src/mrt.o
+ .data          0x00000000        0x0 ./src/mrt.o
+ .bss           0x00000000        0x0 ./src/mrt.o
+ .debug_macro   0x00000000      0xa66 ./src/mrt.o
+ .debug_macro   0x00000000     0x1fb5 ./src/mrt.o
+ .debug_macro   0x00000000      0x12a ./src/mrt.o
+ .debug_macro   0x00000000      0x13f ./src/mrt.o
+ .debug_macro   0x00000000       0x2e ./src/mrt.o
+ .debug_macro   0x00000000       0x10 ./src/mrt.o
+ .debug_macro   0x00000000       0xc4 ./src/mrt.o
+ .debug_macro   0x00000000       0x1c ./src/mrt.o
+ .debug_macro   0x00000000       0x7c ./src/mrt.o
+ .debug_macro   0x00000000       0x3a ./src/mrt.o
+ .debug_macro   0x00000000       0x34 ./src/mrt.o
+ .debug_macro   0x00000000       0x1c ./src/mrt.o
+ .group         0x00000000        0xc ./src/mtb.o
+ .group         0x00000000        0xc ./src/mtb.o
+ .group         0x00000000        0xc ./src/mtb.o
+ .text          0x00000000        0x0 ./src/mtb.o
+ .data          0x00000000        0x0 ./src/mtb.o
+ .bss           0x00000000        0x0 ./src/mtb.o
+ .debug_macro   0x00000000      0xa66 ./src/mtb.o
+ .debug_macro   0x00000000       0x82 ./src/mtb.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .text          0x00000000        0x0 ./src/oscilador.o
+ .data          0x00000000        0x0 ./src/oscilador.o
+ .bss           0x00000000        0x0 ./src/oscilador.o
+ .debug_macro   0x00000000      0xa66 ./src/oscilador.o
+ .debug_macro   0x00000000     0x1fb5 ./src/oscilador.o
+ .debug_macro   0x00000000      0x12a ./src/oscilador.o
+ .debug_macro   0x00000000      0x13f ./src/oscilador.o
+ .debug_macro   0x00000000       0x2e ./src/oscilador.o
+ .debug_macro   0x00000000       0x10 ./src/oscilador.o
+ .debug_macro   0x00000000       0xc4 ./src/oscilador.o
+ .debug_macro   0x00000000       0x1c ./src/oscilador.o
+ .debug_macro   0x00000000       0x7c ./src/oscilador.o
+ .debug_macro   0x00000000       0x3a ./src/oscilador.o
+ .debug_macro   0x00000000       0x34 ./src/oscilador.o
+ .debug_macro   0x00000000       0x1c ./src/oscilador.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .group         0x00000000        0xc ./src/servo.o
+ .text          0x00000000        0x0 ./src/servo.o
+ .data          0x00000000        0x0 ./src/servo.o
+ .bss           0x00000000        0x0 ./src/servo.o
+ .text.servo_on
+                0x00000000       0x70 ./src/servo.o
+ .text.servo_off
+                0x00000000       0x1e ./src/servo.o
+ .debug_info    0x00000000      0x10c ./src/servo.o
+ .debug_abbrev  0x00000000       0xae ./src/servo.o
+ .debug_aranges
+                0x00000000       0x28 ./src/servo.o
+ .debug_ranges  0x00000000       0x18 ./src/servo.o
+ .debug_macro   0x00000000       0xac ./src/servo.o
+ .debug_macro   0x00000000      0xa66 ./src/servo.o
+ .debug_macro   0x00000000     0x1fb5 ./src/servo.o
+ .debug_macro   0x00000000      0x12a ./src/servo.o
+ .debug_macro   0x00000000      0x13f ./src/servo.o
+ .debug_macro   0x00000000       0x2e ./src/servo.o
+ .debug_macro   0x00000000       0x10 ./src/servo.o
+ .debug_macro   0x00000000       0xc4 ./src/servo.o
+ .debug_macro   0x00000000       0x1c ./src/servo.o
+ .debug_macro   0x00000000       0x7c ./src/servo.o
+ .debug_macro   0x00000000       0x3a ./src/servo.o
+ .debug_macro   0x00000000       0x34 ./src/servo.o
+ .debug_macro   0x00000000       0x1c ./src/servo.o
+ .debug_line    0x00000000      0x27f ./src/servo.o
+ .debug_str     0x00000000    0x14411 ./src/servo.o
+ .comment       0x00000000       0x4a ./src/servo.o
+ .debug_frame   0x00000000       0x50 ./src/servo.o
+ .ARM.attributes
+                0x00000000       0x2c ./src/servo.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .group         0x00000000        0xc ./src/swm.o
+ .text          0x00000000        0x0 ./src/swm.o
+ .data          0x00000000        0x0 ./src/swm.o
+ .bss           0x00000000        0x0 ./src/swm.o
+ .debug_macro   0x00000000      0xa66 ./src/swm.o
+ .debug_macro   0x00000000     0x1fb5 ./src/swm.o
+ .debug_macro   0x00000000      0x12a ./src/swm.o
+ .debug_macro   0x00000000      0x13f ./src/swm.o
+ .debug_macro   0x00000000       0x2e ./src/swm.o
+ .debug_macro   0x00000000       0x10 ./src/swm.o
+ .debug_macro   0x00000000       0xc4 ./src/swm.o
+ .debug_macro   0x00000000       0x1c ./src/swm.o
+ .debug_macro   0x00000000       0x7c ./src/swm.o
+ .debug_macro   0x00000000       0x3a ./src/swm.o
+ .debug_macro   0x00000000       0x34 ./src/swm.o
+ .debug_macro   0x00000000       0x1c ./src/swm.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .text          0x00000000        0x0 ./src/timers.o
+ .data          0x00000000        0x0 ./src/timers.o
+ .bss           0x00000000        0x0 ./src/timers.o
+ .debug_info    0x00000000       0x5a ./src/timers.o
+ .debug_abbrev  0x00000000       0x29 ./src/timers.o
+ .debug_aranges
+                0x00000000       0x18 ./src/timers.o
+ .debug_macro   0x00000000       0xac ./src/timers.o
+ .debug_macro   0x00000000      0xa66 ./src/timers.o
+ .debug_macro   0x00000000     0x1fb5 ./src/timers.o
+ .debug_macro   0x00000000      0x12a ./src/timers.o
+ .debug_macro   0x00000000      0x13f ./src/timers.o
+ .debug_macro   0x00000000       0x2e ./src/timers.o
+ .debug_macro   0x00000000       0x10 ./src/timers.o
+ .debug_macro   0x00000000       0xc4 ./src/timers.o
+ .debug_macro   0x00000000       0x1c ./src/timers.o
+ .debug_macro   0x00000000       0x7c ./src/timers.o
+ .debug_macro   0x00000000       0x3a ./src/timers.o
+ .debug_macro   0x00000000       0x34 ./src/timers.o
+ .debug_macro   0x00000000       0x1c ./src/timers.o
+ .debug_line    0x00000000      0x231 ./src/timers.o
+ .debug_str     0x00000000    0x143c9 ./src/timers.o
+ .comment       0x00000000       0x4a ./src/timers.o
+ .ARM.attributes
+                0x00000000       0x2c ./src/timers.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .group         0x00000000        0xc ./src/uart0.o
+ .text          0x00000000        0x0 ./src/uart0.o
+ .data          0x00000000        0x0 ./src/uart0.o
+ .bss           0x00000000        0x0 ./src/uart0.o
+ .text.EnviarString
+                0x00000000       0x48 ./src/uart0.o
+ .debug_macro   0x00000000      0xa66 ./src/uart0.o
+ .debug_macro   0x00000000     0x1fb5 ./src/uart0.o
+ .debug_macro   0x00000000      0x12a ./src/uart0.o
+ .debug_macro   0x00000000      0x13f ./src/uart0.o
+ .debug_macro   0x00000000       0x2e ./src/uart0.o
+ .debug_macro   0x00000000       0x10 ./src/uart0.o
+ .debug_macro   0x00000000       0xc4 ./src/uart0.o
+ .debug_macro   0x00000000       0x1c ./src/uart0.o
+ .debug_macro   0x00000000       0x7c ./src/uart0.o
+ .debug_macro   0x00000000       0x3a ./src/uart0.o
+ .debug_macro   0x00000000       0x34 ./src/uart0.o
+ .debug_macro   0x00000000       0x1c ./src/uart0.o
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x00000000       0x10 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x00000000        0x8 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2uiz
+                0x00000000       0x2a c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x00000000       0x68 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x00000000       0x3e c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x00000000       0x80 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x00000000       0x24 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x00000000        0xc c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2d
+                0x00000000       0x40 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpeq
+                0x00000000       0x20 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmplt
+                0x00000000       0x42 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmple
+                0x00000000       0x44 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpge
+                0x00000000       0x42 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x00000000       0x16 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x00000000       0x24 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x00000000        0xe c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsl
+                0x00000000       0x18 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsr
+                0x00000000       0x18 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lasr
+                0x00000000       0x18 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lcmp
+                0x00000000       0x14 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_ulcmp
+                0x00000000       0x10 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash64         0x00000000         0x00010000         xr
+RamLoc16         0x10000000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/LPC845_GPIO_Dr.o
+LOAD ./src/SysTick.o
+LOAD ./src/adc.o
+LOAD ./src/aeabi_romdiv_patch.o
+LOAD ./src/cr_startup_lpc84x.o
+LOAD ./src/crp.o
+LOAD ./src/ctimer.o
+LOAD ./src/cucatesla01.o
+LOAD ./src/hc__sr04.o
+LOAD ./src/inicializacion.o
+LOAD ./src/mde_com.o
+LOAD ./src/mde_mov.o
+LOAD ./src/mrt.o
+LOAD ./src/mtb.o
+LOAD ./src/oscilador.o
+LOAD ./src/servo.o
+LOAD ./src/swm.o
+LOAD ./src/timers.o
+LOAD ./src/uart0.o
+START GROUP
+LOAD c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a
+LOAD c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+END GROUP
+                0x00000000                __base_MFlash64 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00010000                __top_MFlash64 = 0x10000
+                0x00010000                __top_Flash = 0x10000
+                0x10000000                __base_RamLoc16 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10004000                __top_RamLoc16 = 0x10004000
+                0x10004000                __top_RAM = 0x10004000
+
+.text           0x00000000     0x1ff4
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc84x.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x1ff4 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000100 ADDR (.data)
+                0x000000c8        0x4 LONG 0x30 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000130 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x154 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4      0x144 ./src/cr_startup_lpc84x.o
+                0x000000d4                data_init
+                0x00000116                bss_init
+                0x0000014c                ResetISR
+                0x000001f4                NMI_Handler
+                0x000001fa                HardFault_Handler
+                0x00000200                SVC_Handler
+                0x00000206                PendSV_Handler
+                0x00000212                PININT1_IRQHandler
+                0x00000212                PININT2_IRQHandler
+                0x00000212                I2C1_IRQHandler
+                0x00000212                UART1_IRQHandler
+                0x00000212                ADC_SEQB_IRQHandler
+                0x00000212                I2C0_IRQHandler
+                0x00000212                SPI1_IRQHandler
+                0x00000212                IntDefaultHandler
+                0x00000212                ADC_OVR_IRQHandler
+                0x00000212                WKT_IRQHandler
+                0x00000212                PININT7_IRQHandler
+                0x00000212                PININT3_IRQHandler
+                0x00000212                UART2_IRQHandler
+                0x00000212                PININT5_IRQHandler
+                0x00000212                PININT4_IRQHandler
+                0x00000212                ADC_THCMP_IRQHandler
+                0x00000212                PININT0_IRQHandler
+                0x00000212                BOD_IRQHandler
+                0x00000212                I2C3_IRQHandler
+                0x00000212                SCT_IRQHandler
+                0x00000212                WDT_IRQHandler
+                0x00000212                I2C2_IRQHandler
+                0x00000212                FAIM_IRQHandler
+                0x00000212                DAC0_IRQHandler
+                0x00000212                PININT6_IRQHandler
+                0x00000212                SPI0_IRQHandler
+                0x00000212                CMP_IRQHandler
+                0x00000212                DMA_IRQHandler
+                0x00000212                FLASH_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000218       0xe4 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__ = .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.SetPIN   0x00000300       0x50 ./src/LPC845_GPIO_Dr.o
+                0x00000300                SetPIN
+ .text.SetDIR   0x00000350       0x50 ./src/LPC845_GPIO_Dr.o
+                0x00000350                SetDIR
+ .text.GetPIN   0x000003a0       0x36 ./src/LPC845_GPIO_Dr.o
+                0x000003a0                GetPIN
+ *fill*         0x000003d6        0x2 ff
+ .text.SetPINMODE_IN
+                0x000003d8       0x38 ./src/LPC845_GPIO_Dr.o
+                0x000003d8                SetPINMODE_IN
+ .text.SetPINMODE_OUT
+                0x00000410       0x3c ./src/LPC845_GPIO_Dr.o
+                0x00000410                SetPINMODE_OUT
+ .text.SysTick_Config
+                0x0000044c       0x44 ./src/SysTick.o
+                0x0000044c                SysTick_Config
+ .text.SysTick_Handler
+                0x00000490       0xcc ./src/SysTick.o
+                0x00000490                SysTick_Handler
+ .text.ADC_SEQA_IRQHandler
+                0x0000055c       0x50 ./src/adc.o
+                0x0000055c                ADC_SEQA_IRQHandler
+ .text.__aeabi_idiv
+                0x000005ac       0x10 ./src/aeabi_romdiv_patch.o
+                0x000005ac                __aeabi_idivmod
+                0x000005ac                __aeabi_idiv
+ .text.__aeabi_uidiv
+                0x000005bc       0x10 ./src/aeabi_romdiv_patch.o
+                0x000005bc                __aeabi_uidivmod
+                0x000005bc                __aeabi_uidiv
+ .text.inicializar_ctimer
+                0x000005cc       0xe4 ./src/ctimer.o
+                0x000005cc                inicializar_ctimer
+ .text.CTIMER0_IRQHandler
+                0x000006b0       0xf4 ./src/ctimer.o
+                0x000006b0                CTIMER0_IRQHandler
+ .text.main     0x000007a4      0x1a8 ./src/cucatesla01.o
+                0x000007a4                main
+ .text.mando_pulso
+                0x0000094c       0x3c ./src/hc__sr04.o
+                0x0000094c                mando_pulso
+ .text.inic_pines
+                0x00000988      0x154 ./src/inicializacion.o
+                0x00000988                inic_pines
+ .text.inicializacion
+                0x00000adc       0x38 ./src/inicializacion.o
+                0x00000adc                inicializacion
+ .text.leerTrama
+                0x00000b14       0xe4 ./src/mde_com.o
+                0x00000b14                leerTrama
+ .text.mde_recepcion
+                0x00000bf8      0x114 ./src/mde_com.o
+                0x00000bf8                mde_recepcion
+ .text.mde_com  0x00000d0c        0xe ./src/mde_com.o
+                0x00000d0c                mde_com
+ *fill*         0x00000d1a        0x2 ff
+ .text.mde_mov_autonomo
+                0x00000d1c      0x198 ./src/mde_mov.o
+                0x00000d1c                mde_mov_autonomo
+ .text.buscar_lado
+                0x00000eb4       0x60 ./src/mde_mov.o
+                0x00000eb4                buscar_lado
+ .text.moverse  0x00000f14       0x36 ./src/mde_mov.o
+                0x00000f14                moverse
+ .text.frenar   0x00000f4a       0x1e ./src/mde_mov.o
+                0x00000f4a                frenar
+ .text.Sensor   0x00000f68       0x70 ./src/mde_mov.o
+                0x00000f68                Sensor
+ .text.mde_mov_user
+                0x00000fd8       0x12 ./src/mde_mov.o
+                0x00000fd8                mde_mov_user
+ *fill*         0x00000fea        0x2 ff
+ .text.mde_avanzar_user
+                0x00000fec       0xa8 ./src/mde_mov.o
+                0x00000fec                mde_avanzar_user
+ .text.mde_doblar_user
+                0x00001094       0xa8 ./src/mde_mov.o
+                0x00001094                mde_doblar_user
+ .text.MRT_Inic
+                0x0000113c       0xa4 ./src/mrt.o
+                0x0000113c                MRT_Inic
+ .text.MRT_IRQHandler
+                0x000011e0      0x170 ./src/mrt.o
+                0x000011e0                MRT_IRQHandler
+ .text.barrido_mrt
+                0x00001350      0x168 ./src/mrt.o
+                0x00001350                barrido_mrt
+ .text.Inic_OSC
+                0x000014b8       0xf0 ./src/oscilador.o
+                0x000014b8                Inic_OSC
+ .text.SWM_SetMovablePinSelect
+                0x000015a8       0x70 ./src/swm.o
+                0x000015a8                SWM_SetMovablePinSelect
+ .text.UART0_pushTx
+                0x00001618       0x68 ./src/uart0.o
+                0x00001618                UART0_pushTx
+ .text.UART0_popTx
+                0x00001680       0x64 ./src/uart0.o
+                0x00001680                UART0_popTx
+ .text.UART0_pushRx
+                0x000016e4       0x4c ./src/uart0.o
+                0x000016e4                UART0_pushRx
+ .text.UART0_popRx
+                0x00001730       0x64 ./src/uart0.o
+                0x00001730                UART0_popRx
+ .text.Transmitir
+                0x00001794       0x5a ./src/uart0.o
+                0x00001794                Transmitir
+ *fill*         0x000017ee        0x2 ff
+ .text.UART0_IRQHandler
+                0x000017f0       0x6c ./src/uart0.o
+                0x000017f0                UART0_IRQHandler
+ .text.inic_uart0
+                0x0000185c       0xbc ./src/uart0.o
+                0x0000185c                inic_uart0
+ .text.__weak_main
+                0x00001918        0x8 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                0x00001918                __weak_main
+                0x00001918                __main
+ .text.__aeabi_fmul
+                0x00001920       0xc0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x00001920                __aeabi_fmul
+ .text.__aeabi_fdiv
+                0x000019e0       0xe8 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x000019e0                __aeabi_fdiv
+ .text.__aeabi_fsub
+                0x00001ac8      0x128 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x00001ac8                __aeabi_fsub
+ .text.__aeabi_fadd
+                0x00001bf0       0xac c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x00001bf0                __aeabi_fadd
+ .text.__aeabi_f2iz
+                0x00001c9c       0x3c c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x00001c9c                __aeabi_f2iz
+ .text.__bhs_ui2f
+                0x00001cd8       0x60 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x00001cd8                __bhs_ui2f
+ .text.__aeabi_i2f
+                0x00001d38       0x18 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x00001d38                __aeabi_i2f
+ .text.__aeabi_ui2f
+                0x00001d50        0xc c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x00001d50                __aeabi_ui2f
+ .text.__aeabi_fcmpgt
+                0x00001d5c       0x3e c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                0x00001d5c                __aeabi_fcmpgt
+ .text.__aeabi_llong_lmul
+                0x00001d9a       0x2e c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+                0x00001d9a                __aeabi_lmul
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.mde_recepcion
+                0x00001dc8      0x210 ./src/mde_com.o
+ .rodata.mde_mov_autonomo.str1.4
+                0x00001fd8        0x5 ./src/mde_mov.o
+ *fill*         0x00001fdd        0x3 ff
+ .rodata.mde_mov_autonomo
+                0x00001fe0       0x14 ./src/mde_mov.o
+                0x00001ff4                . = ALIGN (0x4)
+
+.glue_7         0x00001ff4        0x0
+ .glue_7        0x00001ff4        0x0 linker stubs
+
+.glue_7t        0x00001ff4        0x0
+ .glue_7t       0x00001ff4        0x0 linker stubs
+
+.vfp11_veneer   0x00001ff4        0x0
+ .vfp11_veneer  0x00001ff4        0x0 linker stubs
+
+.v4_bx          0x00001ff4        0x0
+ .v4_bx         0x00001ff4        0x0 linker stubs
+
+.iplt           0x00001ff4        0x0
+ .iplt          0x00001ff4        0x0 ./src/SysTick.o
+
+.rel.dyn        0x00001ff4        0x0
+ .rel.iplt      0x00001ff4        0x0 ./src/SysTick.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00001ff4        0x0
+                0x00001ff4                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001ff4                __exidx_end = .
+                0x00001ff4                _etext = .
+
+.mtb_buffer_default
+                0x10000000      0x100
+ *(.mtb*)
+ .mtb.$RAM1     0x10000000      0x100 ./src/mtb.o
+                0x10000000                __mtb_buffer__
+
+.uninit_RESERVED
+                0x10000100        0x0
+                0x10000100                _start_uninit_RESERVED = .
+ *(.bss.$RESERVED*)
+                0x10000100                . = ALIGN (0x4)
+                0x10000100                _end_uninit_RESERVED = .
+
+.data           0x10000100       0x30 load address 0x00001ff4
+ FILL mask 0xff
+                0x10000100                _data = .
+                [!provide]                PROVIDE (__start_data_RAM = .)
+                [!provide]                PROVIDE (__start_data_RamLoc16 = .)
+ *(vtable)
+ *(.ramfunc*)
+ *(CodeQuickAccess)
+ *(DataQuickAccess)
+ *(RamFunction)
+ *(.data*)
+ .data.DelaySensor
+                0x10000100        0x1 ./src/SysTick.o
+                0x10000100                DelaySensor
+ .data.DelaySonico
+                0x10000101        0x1 ./src/SysTick.o
+                0x10000101                DelaySonico
+ *fill*         0x10000102        0x2 ff
+ .data.DelayPeriod
+                0x10000104        0x4 ./src/cucatesla01.o
+                0x10000104                DelayPeriod
+ .data.t_espera
+                0x10000108        0x4 ./src/cucatesla01.o
+                0x10000108                t_espera
+ .data.distancia_D
+                0x1000010c        0x4 ./src/cucatesla01.o
+                0x1000010c                distancia_D
+ .data.distancia_T
+                0x10000110        0x4 ./src/cucatesla01.o
+                0x10000110                distancia_T
+ .data.AnchoBarrido
+                0x10000114        0x4 ./src/cucatesla01.o
+                0x10000114                AnchoBarrido
+ .data.AnchoDoblar
+                0x10000118        0x4 ./src/cucatesla01.o
+                0x10000118                AnchoDoblar
+ .data.AnchoVelocidad
+                0x1000011c        0x4 ./src/cucatesla01.o
+                0x1000011c                AnchoVelocidad
+ .data.config   0x10000120        0x8 ./src/mde_com.o
+                0x10000120                config
+ .data.EstadoSensor
+                0x10000128        0x4 ./src/mde_mov.o
+                0x10000128                EstadoSensor
+ .data.estado.2
+                0x1000012c        0x1 ./src/mde_mov.o
+ .data.estado_c.3
+                0x1000012d        0x1 ./src/mrt.o
+ .data.estado_a.2
+                0x1000012e        0x1 ./src/mrt.o
+ .data.estado_b.1
+                0x1000012f        0x1 ./src/mrt.o
+                0x10000130                . = ALIGN (0x4)
+                0x10000130                _edata = .
+                [!provide]                PROVIDE (__end_data_RAM = .)
+                [!provide]                PROVIDE (__end_data_RamLoc16 = .)
+
+.igot.plt       0x10000130        0x0 load address 0x00002024
+ .igot.plt      0x10000130        0x0 ./src/SysTick.o
+
+.bss            0x10000130      0x154
+                0x10000130                _bss = .
+                [!provide]                PROVIDE (__start_bss_RAM = .)
+                [!provide]                PROVIDE (__start_bss_RamLoc16 = .)
+ *(.bss*)
+ .bss.pDivRom_idiv
+                0x10000130        0x4 ./src/cr_startup_lpc84x.o
+                0x10000130                pDivRom_idiv
+ .bss.pDivRom_uidiv
+                0x10000134        0x4 ./src/cr_startup_lpc84x.o
+                0x10000134                pDivRom_uidiv
+ .bss.SystemCoreClock
+                0x10000138        0x4 ./src/cucatesla01.o
+                0x10000138                SystemCoreClock
+ .bss.DelayHigh
+                0x1000013c        0x4 ./src/cucatesla01.o
+                0x1000013c                DelayHigh
+ .bss.t_doblar  0x10000140        0x4 ./src/cucatesla01.o
+                0x10000140                t_doblar
+ .bss.valorADC  0x10000144        0x4 ./src/cucatesla01.o
+                0x10000144                valorADC
+ .bss.autonomo  0x10000148        0x4 ./src/mde_com.o
+                0x10000148                autonomo
+ .bss.ojos      0x1000014c        0x2 ./src/mde_com.o
+                0x1000014c                ojos
+ *fill*         0x1000014e        0x2 
+ .bss.comando_mov
+                0x10000150        0x4 ./src/mde_com.o
+                0x10000150                comando_mov
+ .bss.comando_dob
+                0x10000154        0x4 ./src/mde_com.o
+                0x10000154                comando_dob
+ .bss.ESTADO.3  0x10000158        0x4 ./src/mde_com.o
+ .bss.auxiliar.2
+                0x1000015c        0x4 ./src/mde_com.o
+ .bss.j.1       0x10000160        0x4 ./src/mde_com.o
+ .bss.aux.0     0x10000164       0x28 ./src/mde_com.o
+ .bss.estado.1  0x1000018c        0x1 ./src/mde_mov.o
+ .bss.estado.0  0x1000018d        0x1 ./src/mde_mov.o
+ .bss.caso.0    0x1000018e        0x1 ./src/mrt.o
+ .bss.txStart   0x1000018f        0x1 ./src/uart0.o
+                0x1000018f                txStart
+ .bss.bufferTx  0x10000190       0x78 ./src/uart0.o
+                0x10000190                bufferTx
+ .bss.bufferRx  0x10000208       0x78 ./src/uart0.o
+                0x10000208                bufferRx
+ .bss.inx_rx_in
+                0x10000280        0x1 ./src/uart0.o
+                0x10000280                inx_rx_in
+ .bss.inx_rx_out
+                0x10000281        0x1 ./src/uart0.o
+                0x10000281                inx_rx_out
+ .bss.inx_tx_in
+                0x10000282        0x1 ./src/uart0.o
+                0x10000282                inx_tx_in
+ .bss.inx_tx_out
+                0x10000283        0x1 ./src/uart0.o
+                0x10000283                inx_tx_out
+ *(COMMON)
+                0x10000284                . = ALIGN (0x4)
+                0x10000284                _ebss = .
+                [!provide]                PROVIDE (__end_bss_RAM = .)
+                [!provide]                PROVIDE (__end_bss_RamLoc16 = .)
+                [!provide]                PROVIDE (end = .)
+
+.noinit         0x10000284        0x0
+                0x10000284                _noinit = .
+                [!provide]                PROVIDE (__start_noinit_RAM = .)
+                [!provide]                PROVIDE (__start_noinit_RamLoc16 = .)
+ *(.noinit*)
+                0x10000284                . = ALIGN (0x4)
+                0x10000284                _end_noinit = .
+                [!provide]                PROVIDE (__end_noinit_RAM = .)
+                [!provide]                PROVIDE (__end_noinit_RamLoc16 = .)
+                [!provide]                PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10004000                PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc16 - 0x0))
+                0xefffbac3                PROVIDE (__valid_user_code_checksum = (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+                0x00000000                _image_start = LOADADDR (.text)
+                0x00002024                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00002024                _image_size = (_image_end - _image_start)
+OUTPUT(cucatesla01.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x4c7a
+ .debug_info    0x00000000      0x404 ./src/LPC845_GPIO_Dr.o
+ .debug_info    0x00000404      0x1f5 ./src/SysTick.o
+ .debug_info    0x000005f9      0xad1 ./src/adc.o
+ .debug_info    0x000010ca       0x22 ./src/aeabi_romdiv_patch.o
+ .debug_info    0x000010ec      0x262 ./src/cr_startup_lpc84x.o
+ .debug_info    0x0000134e       0x40 ./src/crp.o
+ .debug_info    0x0000138e      0xa78 ./src/ctimer.o
+ .debug_info    0x00001e06      0x201 ./src/cucatesla01.o
+ .debug_info    0x00002007      0x182 ./src/hc__sr04.o
+ .debug_info    0x00002189      0x58e ./src/inicializacion.o
+ .debug_info    0x00002717      0x209 ./src/mde_com.o
+ .debug_info    0x00002920      0x354 ./src/mde_mov.o
+ .debug_info    0x00002c74      0x821 ./src/mrt.o
+ .debug_info    0x00003495       0x54 ./src/mtb.o
+ .debug_info    0x000034e9      0x57c ./src/oscilador.o
+ .debug_info    0x00003a65      0x52e ./src/swm.o
+ .debug_info    0x00003f93      0xce7 ./src/uart0.o
+
+.debug_abbrev   0x00000000     0x1263
+ .debug_abbrev  0x00000000      0x145 ./src/LPC845_GPIO_Dr.o
+ .debug_abbrev  0x00000145      0x115 ./src/SysTick.o
+ .debug_abbrev  0x0000025a      0x229 ./src/adc.o
+ .debug_abbrev  0x00000483       0x12 ./src/aeabi_romdiv_patch.o
+ .debug_abbrev  0x00000495      0x135 ./src/cr_startup_lpc84x.o
+ .debug_abbrev  0x000005ca       0x38 ./src/crp.o
+ .debug_abbrev  0x00000602      0x190 ./src/ctimer.o
+ .debug_abbrev  0x00000792       0xcf ./src/cucatesla01.o
+ .debug_abbrev  0x00000861       0xa6 ./src/hc__sr04.o
+ .debug_abbrev  0x00000907       0xf2 ./src/inicializacion.o
+ .debug_abbrev  0x000009f9       0xf8 ./src/mde_com.o
+ .debug_abbrev  0x00000af1      0x1b9 ./src/mde_mov.o
+ .debug_abbrev  0x00000caa      0x161 ./src/mrt.o
+ .debug_abbrev  0x00000e0b       0x46 ./src/mtb.o
+ .debug_abbrev  0x00000e51       0xf2 ./src/oscilador.o
+ .debug_abbrev  0x00000f43      0x11f ./src/swm.o
+ .debug_abbrev  0x00001062      0x201 ./src/uart0.o
+
+.debug_aranges  0x00000000      0x360
+ .debug_aranges
+                0x00000000       0x48 ./src/LPC845_GPIO_Dr.o
+ .debug_aranges
+                0x00000048       0x28 ./src/SysTick.o
+ .debug_aranges
+                0x00000070       0x40 ./src/adc.o
+ .debug_aranges
+                0x000000b0       0x28 ./src/aeabi_romdiv_patch.o
+ .debug_aranges
+                0x000000d8       0x60 ./src/cr_startup_lpc84x.o
+ .debug_aranges
+                0x00000138       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000150       0x28 ./src/ctimer.o
+ .debug_aranges
+                0x00000178       0x20 ./src/cucatesla01.o
+ .debug_aranges
+                0x00000198       0x20 ./src/hc__sr04.o
+ .debug_aranges
+                0x000001b8       0x28 ./src/inicializacion.o
+ .debug_aranges
+                0x000001e0       0x30 ./src/mde_com.o
+ .debug_aranges
+                0x00000210       0x70 ./src/mde_mov.o
+ .debug_aranges
+                0x00000280       0x30 ./src/mrt.o
+ .debug_aranges
+                0x000002b0       0x18 ./src/mtb.o
+ .debug_aranges
+                0x000002c8       0x20 ./src/oscilador.o
+ .debug_aranges
+                0x000002e8       0x20 ./src/swm.o
+ .debug_aranges
+                0x00000308       0x58 ./src/uart0.o
+
+.debug_ranges   0x00000000      0x248
+ .debug_ranges  0x00000000       0x38 ./src/LPC845_GPIO_Dr.o
+ .debug_ranges  0x00000038       0x18 ./src/SysTick.o
+ .debug_ranges  0x00000050       0x30 ./src/adc.o
+ .debug_ranges  0x00000080       0x20 ./src/aeabi_romdiv_patch.o
+ .debug_ranges  0x000000a0       0x50 ./src/cr_startup_lpc84x.o
+ .debug_ranges  0x000000f0       0x18 ./src/ctimer.o
+ .debug_ranges  0x00000108       0x10 ./src/cucatesla01.o
+ .debug_ranges  0x00000118       0x10 ./src/hc__sr04.o
+ .debug_ranges  0x00000128       0x18 ./src/inicializacion.o
+ .debug_ranges  0x00000140       0x20 ./src/mde_com.o
+ .debug_ranges  0x00000160       0x60 ./src/mde_mov.o
+ .debug_ranges  0x000001c0       0x20 ./src/mrt.o
+ .debug_ranges  0x000001e0       0x10 ./src/oscilador.o
+ .debug_ranges  0x000001f0       0x10 ./src/swm.o
+ .debug_ranges  0x00000200       0x48 ./src/uart0.o
+
+.debug_macro    0x00000000     0x3a15
+ .debug_macro   0x00000000       0xac ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x000000ac      0xa66 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000b12     0x1fb5 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002ac7      0x12a ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002bf1      0x13f ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002d30       0x2e ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002d5e       0x10 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002d6e       0xc4 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002e32       0x1c ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002e4e       0x7c ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002eca       0x3a ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002f04       0x34 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002f38       0x1c ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00002f54       0xac ./src/SysTick.o
+ .debug_macro   0x00003000       0xac ./src/adc.o
+ .debug_macro   0x000030ac       0x23 ./src/cr_startup_lpc84x.o
+ .debug_macro   0x000030cf       0x1a ./src/crp.o
+ .debug_macro   0x000030e9       0x34 ./src/crp.o
+ .debug_macro   0x0000311d       0xac ./src/ctimer.o
+ .debug_macro   0x000031c9       0xd1 ./src/cucatesla01.o
+ .debug_macro   0x0000329a       0x82 ./src/cucatesla01.o
+ .debug_macro   0x0000331c      0x12e ./src/cucatesla01.o
+ .debug_macro   0x0000344a       0x28 ./src/cucatesla01.o
+ .debug_macro   0x00003472       0xb0 ./src/hc__sr04.o
+ .debug_macro   0x00003522       0xac ./src/inicializacion.o
+ .debug_macro   0x000035ce       0xac ./src/mde_com.o
+ .debug_macro   0x0000367a       0xac ./src/mde_mov.o
+ .debug_macro   0x00003726       0xac ./src/mrt.o
+ .debug_macro   0x000037d2       0x29 ./src/mtb.o
+ .debug_macro   0x000037fb       0x10 ./src/mtb.o
+ .debug_macro   0x0000380b       0xb2 ./src/oscilador.o
+ .debug_macro   0x000038bd       0xac ./src/swm.o
+ .debug_macro   0x00003969       0xac ./src/uart0.o
+
+.debug_line     0x00000000     0x2d2b
+ .debug_line    0x00000000      0x339 ./src/LPC845_GPIO_Dr.o
+ .debug_line    0x00000339      0x2c3 ./src/SysTick.o
+ .debug_line    0x000005fc      0x362 ./src/adc.o
+ .debug_line    0x0000095e       0x65 ./src/aeabi_romdiv_patch.o
+ .debug_line    0x000009c3      0x14d ./src/cr_startup_lpc84x.o
+ .debug_line    0x00000b10       0xb1 ./src/crp.o
+ .debug_line    0x00000bc1      0x2e1 ./src/ctimer.o
+ .debug_line    0x00000ea2      0x39c ./src/cucatesla01.o
+ .debug_line    0x0000123e      0x24f ./src/hc__sr04.o
+ .debug_line    0x0000148d      0x290 ./src/inicializacion.o
+ .debug_line    0x0000171d      0x36c ./src/mde_com.o
+ .debug_line    0x00001a89      0x51c ./src/mde_mov.o
+ .debug_line    0x00001fa5      0x40e ./src/mrt.o
+ .debug_line    0x000023b3       0xce ./src/mtb.o
+ .debug_line    0x00002481      0x26f ./src/oscilador.o
+ .debug_line    0x000026f0      0x270 ./src/swm.o
+ .debug_line    0x00002960      0x3cb ./src/uart0.o
+
+.debug_str      0x00000000    0x165df
+ .debug_str     0x00000000    0x144a8 ./src/LPC845_GPIO_Dr.o
+                              0x144f3 (size before relaxing)
+ .debug_str     0x000144a8       0xa2 ./src/SysTick.o
+                              0x144b5 (size before relaxing)
+ .debug_str     0x0001454a      0x685 ./src/adc.o
+                              0x14af0 (size before relaxing)
+ .debug_str     0x00014bcf       0x2a ./src/aeabi_romdiv_patch.o
+                                 0x61 (size before relaxing)
+ .debug_str     0x00014bf9      0x1be ./src/cr_startup_lpc84x.o
+                               0x2e1e (size before relaxing)
+ .debug_str     0x00014db7       0xe9 ./src/crp.o
+                               0x2d33 (size before relaxing)
+ .debug_str     0x00014ea0      0x853 ./src/ctimer.o
+                              0x14f5c (size before relaxing)
+ .debug_str     0x000156f3      0xa26 ./src/cucatesla01.o
+                              0x14e6e (size before relaxing)
+ .debug_str     0x00016119       0x1e ./src/hc__sr04.o
+                              0x14409 (size before relaxing)
+ .debug_str     0x00016137       0x32 ./src/inicializacion.o
+                              0x146fb (size before relaxing)
+ .debug_str     0x00016169       0x6a ./src/mde_com.o
+                              0x14460 (size before relaxing)
+ .debug_str     0x000161d3      0x111 ./src/mde_mov.o
+                              0x1455a (size before relaxing)
+ .debug_str     0x000162e4       0x81 ./src/mrt.o
+                              0x147fd (size before relaxing)
+ .debug_str     0x00016365       0xd0 ./src/mtb.o
+                               0x3168 (size before relaxing)
+ .debug_str     0x00016435       0x47 ./src/oscilador.o
+                              0x14710 (size before relaxing)
+ .debug_str     0x0001647c       0x4e ./src/swm.o
+                              0x14d10 (size before relaxing)
+ .debug_str     0x000164ca      0x115 ./src/uart0.o
+                              0x15213 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ./src/LPC845_GPIO_Dr.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ./src/SysTick.o
+ .comment       0x00000049       0x4a ./src/adc.o
+ .comment       0x00000049       0x4a ./src/cr_startup_lpc84x.o
+ .comment       0x00000049       0x4a ./src/crp.o
+ .comment       0x00000049       0x4a ./src/ctimer.o
+ .comment       0x00000049       0x4a ./src/cucatesla01.o
+ .comment       0x00000049       0x4a ./src/hc__sr04.o
+ .comment       0x00000049       0x4a ./src/inicializacion.o
+ .comment       0x00000049       0x4a ./src/mde_com.o
+ .comment       0x00000049       0x4a ./src/mde_mov.o
+ .comment       0x00000049       0x4a ./src/mrt.o
+ .comment       0x00000049       0x4a ./src/mtb.o
+ .comment       0x00000049       0x4a ./src/oscilador.o
+ .comment       0x00000049       0x4a ./src/swm.o
+ .comment       0x00000049       0x4a ./src/uart0.o
+ .comment       0x00000049       0x4a c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .comment       0x00000049       0x4a c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c ./src/LPC845_GPIO_Dr.o
+ .ARM.attributes
+                0x0000002c       0x2c ./src/SysTick.o
+ .ARM.attributes
+                0x00000058       0x2c ./src/adc.o
+ .ARM.attributes
+                0x00000084       0x1c ./src/aeabi_romdiv_patch.o
+ .ARM.attributes
+                0x000000a0       0x2c ./src/cr_startup_lpc84x.o
+ .ARM.attributes
+                0x000000cc       0x2c ./src/crp.o
+ .ARM.attributes
+                0x000000f8       0x2c ./src/ctimer.o
+ .ARM.attributes
+                0x00000124       0x2c ./src/cucatesla01.o
+ .ARM.attributes
+                0x00000150       0x2c ./src/hc__sr04.o
+ .ARM.attributes
+                0x0000017c       0x2c ./src/inicializacion.o
+ .ARM.attributes
+                0x000001a8       0x2c ./src/mde_com.o
+ .ARM.attributes
+                0x000001d4       0x2c ./src/mde_mov.o
+ .ARM.attributes
+                0x00000200       0x2c ./src/mrt.o
+ .ARM.attributes
+                0x0000022c       0x2c ./src/mtb.o
+ .ARM.attributes
+                0x00000258       0x2c ./src/oscilador.o
+ .ARM.attributes
+                0x00000284       0x2c ./src/swm.o
+ .ARM.attributes
+                0x000002b0       0x2c ./src/uart0.o
+ .ARM.attributes
+                0x000002dc       0x2c c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000308       0x2c c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+ .ARM.attributes
+                0x00000334       0x1c c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+
+.debug_frame    0x00000000      0x764
+ .debug_frame   0x00000000       0xd0 ./src/LPC845_GPIO_Dr.o
+ .debug_frame   0x000000d0       0x4c ./src/SysTick.o
+ .debug_frame   0x0000011c       0xa4 ./src/adc.o
+ .debug_frame   0x000001c0      0x118 ./src/cr_startup_lpc84x.o
+ .debug_frame   0x000002d8       0x4c ./src/ctimer.o
+ .debug_frame   0x00000324       0x30 ./src/cucatesla01.o
+ .debug_frame   0x00000354       0x2c ./src/hc__sr04.o
+ .debug_frame   0x00000380       0x48 ./src/inicializacion.o
+ .debug_frame   0x000003c8       0x6c ./src/mde_com.o
+ .debug_frame   0x00000434      0x160 ./src/mde_mov.o
+ .debug_frame   0x00000594       0x68 ./src/mrt.o
+ .debug_frame   0x000005fc       0x2c ./src/oscilador.o
+ .debug_frame   0x00000628       0x30 ./src/swm.o
+ .debug_frame   0x00000658      0x10c ./src/uart0.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_Init                                          ./src/adc.o
+ADC_OVR_IRQHandler                                ./src/cr_startup_lpc84x.o
+ADC_SEQA_IRQHandler                               ./src/adc.o
+ADC_SEQB_IRQHandler                               ./src/cr_startup_lpc84x.o
+ADC_THCMP_IRQHandler                              ./src/cr_startup_lpc84x.o
+AnchoBarrido                                      ./src/cucatesla01.o
+                                                  ./src/mrt.o
+                                                  ./src/mde_mov.o
+AnchoDoblar                                       ./src/cucatesla01.o
+                                                  ./src/mrt.o
+                                                  ./src/mde_mov.o
+AnchoVelocidad                                    ./src/cucatesla01.o
+                                                  ./src/mrt.o
+                                                  ./src/mde_mov.o
+BOD_IRQHandler                                    ./src/cr_startup_lpc84x.o
+CMP_IRQHandler                                    ./src/cr_startup_lpc84x.o
+CRP_WORD                                          ./src/crp.o
+CTIMER0_IRQHandler                                ./src/ctimer.o
+                                                  ./src/cr_startup_lpc84x.o
+Chequeo_Luz                                       ./src/adc.o
+DAC0_IRQHandler                                   ./src/cr_startup_lpc84x.o
+DMA_IRQHandler                                    ./src/cr_startup_lpc84x.o
+DelayADC                                          ./src/cucatesla01.o
+                                                  ./src/adc.o
+DelayHigh                                         ./src/cucatesla01.o
+                                                  ./src/servo.o
+                                                  ./src/SysTick.o
+DelayPeriod                                       ./src/cucatesla01.o
+                                                  ./src/servo.o
+                                                  ./src/SysTick.o
+DelaySensor                                       ./src/SysTick.o
+DelaySonico                                       ./src/SysTick.o
+EnviarString                                      ./src/uart0.o
+EstadoSensor                                      ./src/mde_mov.o
+                                                  ./src/mrt.o
+FAIM_IRQHandler                                   ./src/cr_startup_lpc84x.o
+FLASH_IRQHandler                                  ./src/cr_startup_lpc84x.o
+GetPIN                                            ./src/LPC845_GPIO_Dr.o
+                                                  ./src/mde_mov.o
+HardFault_Handler                                 ./src/cr_startup_lpc84x.o
+I2C0_IRQHandler                                   ./src/cr_startup_lpc84x.o
+I2C1_IRQHandler                                   ./src/cr_startup_lpc84x.o
+I2C2_IRQHandler                                   ./src/cr_startup_lpc84x.o
+I2C3_IRQHandler                                   ./src/cr_startup_lpc84x.o
+Inic_OSC                                          ./src/oscilador.o
+                                                  ./src/inicializacion.o
+IntDefaultHandler                                 ./src/cr_startup_lpc84x.o
+MRT_IRQHandler                                    ./src/mrt.o
+                                                  ./src/cr_startup_lpc84x.o
+MRT_Inic                                          ./src/mrt.o
+                                                  ./src/inicializacion.o
+NMI_Handler                                       ./src/cr_startup_lpc84x.o
+NivelLuz                                          ./src/adc.o
+PININT0_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT1_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT2_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT3_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT4_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT5_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT6_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT7_IRQHandler                                ./src/cr_startup_lpc84x.o
+PendSV_Handler                                    ./src/cr_startup_lpc84x.o
+ResetISR                                          ./src/cr_startup_lpc84x.o
+SCT_IRQHandler                                    ./src/cr_startup_lpc84x.o
+SPI0_IRQHandler                                   ./src/cr_startup_lpc84x.o
+SPI1_IRQHandler                                   ./src/cr_startup_lpc84x.o
+SVC_Handler                                       ./src/cr_startup_lpc84x.o
+SWM_SetMovablePinSelect                           ./src/swm.o
+                                                  ./src/uart0.o
+                                                  ./src/ctimer.o
+Sensor                                            ./src/mde_mov.o
+SetDIR                                            ./src/LPC845_GPIO_Dr.o
+                                                  ./src/inicializacion.o
+SetPIN                                            ./src/LPC845_GPIO_Dr.o
+                                                  ./src/servo.o
+                                                  ./src/mrt.o
+                                                  ./src/mde_mov.o
+                                                  ./src/inicializacion.o
+                                                  ./src/hc__sr04.o
+                                                  ./src/cucatesla01.o
+                                                  ./src/ctimer.o
+SetPINMODE_IN                                     ./src/LPC845_GPIO_Dr.o
+                                                  ./src/inicializacion.o
+SetPINMODE_OUT                                    ./src/LPC845_GPIO_Dr.o
+                                                  ./src/inicializacion.o
+SysTick_Config                                    ./src/SysTick.o
+                                                  ./src/inicializacion.o
+SysTick_Handler                                   ./src/SysTick.o
+SystemCoreClock                                   ./src/cucatesla01.o
+                                                  ./src/oscilador.o
+                                                  ./src/inicializacion.o
+                                                  ./src/adc.o
+TogglePIN                                         ./src/LPC845_GPIO_Dr.o
+Transmitir                                        ./src/uart0.o
+                                                  ./src/mde_mov.o
+                                                  ./src/cucatesla01.o
+                                                  ./src/adc.o
+UART0_IRQHandler                                  ./src/uart0.o
+                                                  ./src/cr_startup_lpc84x.o
+UART0_popRx                                       ./src/uart0.o
+                                                  ./src/mde_com.o
+UART0_popTx                                       ./src/uart0.o
+UART0_pushRx                                      ./src/uart0.o
+UART0_pushTx                                      ./src/uart0.o
+                                                  ./src/cucatesla01.o
+UART1_IRQHandler                                  ./src/cr_startup_lpc84x.o
+UART2_IRQHandler                                  ./src/cr_startup_lpc84x.o
+WDT_IRQHandler                                    ./src/cr_startup_lpc84x.o
+WKT_IRQHandler                                    ./src/cr_startup_lpc84x.o
+__aeabi_cfcmpeq                                   c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_cfcmple                                   c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_cfrcmple                                  c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_f2d                                       c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_f2iz                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                                                  ./src/cucatesla01.o
+__aeabi_f2lz                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_f2uiz                                     c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_f2ulz                                     c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_fadd                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_fcmpeq                                    c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_fcmpge                                    c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_fcmpgt                                    c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                                                  ./src/mrt.o
+                                                  ./src/cucatesla01.o
+                                                  ./src/ctimer.o
+__aeabi_fcmple                                    c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_fcmplt                                    c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_fcmpun                                    c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_fdiv                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                                                  ./src/ctimer.o
+__aeabi_fmul                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                                                  ./src/cucatesla01.o
+__aeabi_fneg                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_frsub                                     c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_fsub                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                                                  ./src/ctimer.o
+__aeabi_i2f                                       c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                                                  ./src/mrt.o
+                                                  ./src/cucatesla01.o
+__aeabi_idiv                                      ./src/aeabi_romdiv_patch.o
+                                                  ./src/mde_com.o
+                                                  ./src/cucatesla01.o
+__aeabi_idivmod                                   ./src/aeabi_romdiv_patch.o
+                                                  ./src/mde_com.o
+                                                  ./src/cucatesla01.o
+__aeabi_l2f                                       c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_lasr                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+__aeabi_lcmp                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+__aeabi_llsl                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+__aeabi_llsr                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+__aeabi_lmul                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+                                                  c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_ui2f                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+                                                  ./src/ctimer.o
+__aeabi_uidiv                                     ./src/aeabi_romdiv_patch.o
+                                                  ./src/inicializacion.o
+                                                  ./src/adc.o
+__aeabi_uidivmod                                  ./src/aeabi_romdiv_patch.o
+                                                  ./src/uart0.o
+__aeabi_ul2f                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__aeabi_ulcmp                                     c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(llong.o)
+__bhs_ui2f                                        c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__bhs_ul2f                                        c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(float.o)
+__bss_section_table_end                           ./src/cr_startup_lpc84x.o
+__data_section_table                              ./src/cr_startup_lpc84x.o
+__data_section_table_end                          ./src/cr_startup_lpc84x.o
+__main                                            c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                                                  ./src/cr_startup_lpc84x.o
+__mtb_buffer__                                    ./src/mtb.o
+__valid_user_code_checksum                        ./src/cr_startup_lpc84x.o
+__weak_main                                       c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+_vStackTop                                        ./src/cr_startup_lpc84x.o
+a                                                 ./src/cucatesla01.o
+autonomo                                          ./src/mde_com.o
+                                                  ./src/mde_mov.o
+barrido_mrt                                       ./src/mrt.o
+                                                  ./src/SysTick.o
+bss_init                                          ./src/cr_startup_lpc84x.o
+bufferRx                                          ./src/uart0.o
+bufferTx                                          ./src/uart0.o
+buscar_lado                                       ./src/mde_mov.o
+calibraADC                                        ./src/adc.o
+cambiar_velocidad                                 ./src/mde_mov.o
+comando_dob                                       ./src/mde_com.o
+                                                  ./src/mde_mov.o
+comando_mov                                       ./src/mde_com.o
+                                                  ./src/mde_mov.o
+config                                            ./src/mde_com.o
+                                                  ./src/mrt.o
+                                                  ./src/mde_mov.o
+                                                  ./src/adc.o
+data_init                                         ./src/cr_startup_lpc84x.o
+distancia_D                                       ./src/cucatesla01.o
+                                                  ./src/mrt.o
+                                                  ./src/ctimer.o
+distancia_T                                       ./src/cucatesla01.o
+                                                  ./src/mrt.o
+                                                  ./src/ctimer.o
+doblar                                            ./src/mde_mov.o
+flag_oscu                                         ./src/mde_com.o
+                                                  ./src/adc.o
+frenar                                            ./src/mde_mov.o
+g_pfnVectors                                      ./src/cr_startup_lpc84x.o
+inic_pines                                        ./src/inicializacion.o
+inic_uart0                                        ./src/uart0.o
+                                                  ./src/inicializacion.o
+inicializacion                                    ./src/inicializacion.o
+                                                  ./src/cucatesla01.o
+inicializar_ctimer                                ./src/ctimer.o
+                                                  ./src/inicializacion.o
+inx_rx_in                                         ./src/uart0.o
+inx_rx_out                                        ./src/uart0.o
+inx_tx_in                                         ./src/uart0.o
+inx_tx_out                                        ./src/uart0.o
+leerTrama                                         ./src/mde_com.o
+main                                              ./src/cucatesla01.o
+                                                  c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+mando_pulso                                       ./src/hc__sr04.o
+                                                  ./src/SysTick.o
+max_luz                                           ./src/adc.o
+mde_avanzar_user                                  ./src/mde_mov.o
+mde_com                                           ./src/mde_com.o
+                                                  ./src/cucatesla01.o
+mde_doblar_user                                   ./src/mde_mov.o
+mde_mov                                           ./src/mde_mov.o
+mde_mov_autonomo                                  ./src/mde_mov.o
+                                                  ./src/cucatesla01.o
+mde_mov_user                                      ./src/mde_mov.o
+                                                  ./src/cucatesla01.o
+mde_recepcion                                     ./src/mde_com.o
+min_luz                                           ./src/adc.o
+moverse                                           ./src/mde_mov.o
+nivel_luz                                         ./src/adc.o
+ojos                                              ./src/mde_com.o
+pDivRom_idiv                                      ./src/cr_startup_lpc84x.o
+                                                  ./src/aeabi_romdiv_patch.o
+pDivRom_uidiv                                     ./src/cr_startup_lpc84x.o
+                                                  ./src/aeabi_romdiv_patch.o
+servo_off                                         ./src/servo.o
+servo_on                                          ./src/servo.o
+t_doblar                                          ./src/cucatesla01.o
+                                                  ./src/mde_mov.o
+                                                  ./src/SysTick.o
+t_espera                                          ./src/cucatesla01.o
+                                                  ./src/SysTick.o
+txStart                                           ./src/uart0.o
+valorADC                                          ./src/cucatesla01.o
+                                                  ./src/mde_com.o
+                                                  ./src/adc.o
+velocidad                                         ./src/mde_mov.o

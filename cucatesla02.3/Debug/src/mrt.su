@@ -1,0 +1,3 @@
+../src/mrt.c:15:6:MRT_Inic	8	static
+../src/mrt.c:37:6:MRT_IRQHandler	16	static
+../src/mrt.c:92:6:barrido_mrt	8	static
