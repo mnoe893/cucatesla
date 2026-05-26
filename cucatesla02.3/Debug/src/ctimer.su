@@ -1,0 +1,2 @@
+../src/ctimer.c:26:6:inicializar_ctimer	8	static
+../src/ctimer.c:71:6:CTIMER0_IRQHandler	24	static

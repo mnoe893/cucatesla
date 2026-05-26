@@ -1,0 +1,2 @@
+../src/SysTick.c:26:10:SysTick_Config	16	static
+../src/SysTick.c:46:6:SysTick_Handler	8	static

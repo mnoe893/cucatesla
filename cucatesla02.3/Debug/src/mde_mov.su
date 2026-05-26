@@ -1,0 +1,11 @@
+../src/mde_mov.c:21:6:mde_mov_autonomo	24	static
+../src/mde_mov.c:138:9:buscar_lado	16	static
+../src/mde_mov.c:155:6:doblar	40	static
+../src/mde_mov.c:160:6:moverse	16	static
+../src/mde_mov.c:167:6:frenar	8	static
+../src/mde_mov.c:172:9:Sensor	24	static
+../src/mde_mov.c:185:6:mde_mov_user	8	static
+../src/mde_mov.c:190:6:mde_avanzar_user	8	static
+../src/mde_mov.c:225:6:mde_doblar_user	8	static
+../src/mde_mov.c:257:6:cambiar_velocidad	16	static
+../src/mde_mov.c:274:6:mde_mov	8	static

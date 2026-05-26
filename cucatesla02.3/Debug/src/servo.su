@@ -1,0 +1,2 @@
+../src/servo.c:12:6:servo_on	24	static
+../src/servo.c:28:6:servo_off	16	static
